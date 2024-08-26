@@ -1,0 +1,1 @@
+This repository contains a project that aims to predict crime rates using various machine learning algorithms. The goal is to analyze historical crime data and forecast future trends, helping authorities take preventive measures. The project involves data preprocessing, feature engineering, model training, and evaluation.
